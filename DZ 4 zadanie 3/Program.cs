@@ -1,6 +1,6 @@
-using System;
+﻿using System;
 
-namespace ДЗ_к_4_уроку_3_задание
+namespace DZ_4_zadanie_3
 {
     class Program
     {
